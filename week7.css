@@ -1,0 +1,54 @@
+.navbar-custom {
+  background-color: white;
+  border: none;
+  border-radius: 0px;
+  margin-bottom: 0px;
+}
+
+.navbar-custom .navbar-nav > li > a {
+  color: black;
+}
+
+.navbar-custom .navbar-brand {
+  color: black;
+  font-weight: bold;
+}
+
+.custom-nav > li {
+  color: black;
+}
+
+.brand-logo {
+  padding-top: 5px;
+  padding-bottom: 0;
+}
+
+.carousel-custom {
+  height: 550px;
+}
+
+.card-container {
+  margin-top: 50px;
+}
+
+.container-footer {
+  margin-top: 50px;
+}
+
+.footer {
+  background-color: RGB(38, 38, 102);
+  color: white;
+  padding: 2rem 0;
+}
+
+h4 {
+  color: yellow;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.success {
+  color: greenyellow;
+}
